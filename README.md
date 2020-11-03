@@ -1,4 +1,4 @@
-# Exerrcise App UI
+# Exercise App UI
 
 A new Flutter project.
 
