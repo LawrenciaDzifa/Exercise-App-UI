@@ -1,4 +1,4 @@
-# tourism
+# Exercise App UI
 
 A new Flutter project.
 
