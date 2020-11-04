@@ -27,6 +27,6 @@ class Activity {
     ),
   ];
 }
-getActivityName(){
-    return activityBank.activityNumber.activityName;
+getActivityName(activityNumber){
+    return activityBank[activityNumber].activityName;
 }
