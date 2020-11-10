@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:tourism/Components/activities_bank.dart';
 
 import '../Components/activities_bank.dart';
-import '../Components/activities_bank.dart';
 
 class AllExercises extends StatefulWidget {
   @override
@@ -35,7 +34,6 @@ class _AllExercisesState extends State<AllExercises> {
             onTap: () {},
             child: Stack(children: [
               Container(
-                  height: 300,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
                     boxShadow: [
@@ -49,7 +47,7 @@ class _AllExercisesState extends State<AllExercises> {
                   )),
               Padding(
                 padding:
-                    const EdgeInsets.only(top: 120.0, left: 20.0, right: 10.0),
+                    const EdgeInsets.only(top: 105.0, left: 20.0, right: 10.0),
                 child: Container(
                   alignment: Alignment.center,
                   child: Text(
