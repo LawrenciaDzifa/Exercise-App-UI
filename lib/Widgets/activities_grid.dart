@@ -47,7 +47,7 @@ class _AllExercisesState extends State<AllExercises> {
                   )),
               Padding(
                 padding:
-                    const EdgeInsets.only(top: 105.0, left: 20.0, right: 10.0),
+                    const EdgeInsets.only(top: 125.0, left: 20.0, right: 10.0),
                 child: Container(
                   alignment: Alignment.center,
                   child: Text(

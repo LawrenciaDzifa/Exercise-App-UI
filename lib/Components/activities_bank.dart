@@ -13,7 +13,7 @@ class Activity {
 
 List<Activity> getAllActivities() => [
       Activity(
-        activityName: 'Diet Management',
+        activityName: 'Dieting',
         image: 'assets/images/diet3.jpg',
       ),
       Activity(
